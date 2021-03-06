@@ -39,3 +39,4 @@ The overarching theme of all of these trends is that cryptocurrency is growing u
 * POS Integration for food service ,retail etc .
 * This technologies will introduce Cryptocurrencies and Fintech to cominities with less current integration.
 
+Addendum- https://www.coinbase.com/  ,wikipedia,Coinbase Inc: Company Profile - Bloomberg" Ludwig, Sean (February 8, 2013). "Y Combinator-backed Coinbase now selling over $1M Bitcoins per month". VentureBeat. Retrieved May 20, 2018.
