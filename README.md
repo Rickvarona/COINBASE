@@ -3,16 +3,16 @@ FinTech Case Study - Unit1 Homework Assignment
 ## Overview and Origin
 
 * Incorporated June 2012
-* 
+ 
 * Founder Brian Armstrong a former Airbnb Engineer started in 2011 with funding from former Airbnb engineer Brian Armstrong and was first funded by Y Combinator.
 * https://www.ycombinator.com
-* 
+
 * In 2012, co-founder Fred Ehrsam, a former Goldman Sachs trader, joined the company, after which Coinbase launched services to buy, sell, and store bitcoin.
 * THE IDEA WAS that anyone, anywhere, should be able to easily and securely send and receive Bitcoin
 * Blockchain.info co-founder Ben Reeves was part of the original founding team but later parted ways with Armstrong due to their different stands on how the Coinbase wallet should operate
-* 
+
 * Funding started in the Summer 2012 with the  Y Combinator startup incubator and was followed May 2013 Coinbase received a $5 million Series A investment led by Fred Wilson from the venture capital firm Union Square Ventures.Then in December the same year, the company received a $25 million investment, from the venture capital firms Andreessen Horowitz, Union Square Ventures (USV), and Ribbit Capital.
-* 
+ 
 
 ## Lanscape
 
