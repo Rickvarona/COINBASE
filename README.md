@@ -1,4 +1,5 @@
 # COINBASE
+
 FinTech Case Study - Unit1 Homework Assignment
 ## Overview and Origin
 
@@ -27,7 +28,7 @@ The overarching theme of all of these trends is that cryptocurrency is growing u
 ## Results
 
 * IMPACT Over 43 Million users.
-* METRICS To measure SUCESS- 455+ Billion in transactions. 90 Billion in assets. Used in over 100 countries and over 1200 employees.
+* METRICS - 455+ Billion in transactions. 90 Billion in assets. Used in over 100 countries and over 1200 employees.
 * Some of the competitors are BINANCE , HUOBI , KRAKEN , BITFINEX and Bitestamp.
 
 
