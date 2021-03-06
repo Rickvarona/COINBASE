@@ -14,7 +14,7 @@ FinTech Case Study - Unit1 Homework Assignment
 * Funding started in the Summer 2012 with the  Y Combinator startup incubator and was followed May 2013 Coinbase received a $5 million Series A investment led by Fred Wilson from the venture capital firm Union Square Ventures.Then in December the same year, the company received a $25 million investment, from the venture capital firms Andreessen Horowitz, Union Square Ventures (USV), and Ribbit Capital.
  
 
-## Lanscape
+## Lansdcape
 
 * DOMAIN : Blockchain & Cryptocurrency 
 
